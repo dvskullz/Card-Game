@@ -29,7 +29,7 @@ Instead of just reading theory, I wanted to apply these concepts in a fun and in
 ---
 
 ## 📂 Project Structure
- <pre> \`\`\` Card-Game/
+ <pre> Card-Game/
 ├── src/                      # Source files (Java code)
 │   ├── blackJack.java        # Main game logic and entry point
 │   ├── card.java             # Card class: suit, rank, value
@@ -39,13 +39,13 @@ Instead of just reading theory, I wanted to apply these concepts in a fun and in
 │
 ├── Card Game.iml             # IntelliJ project file
 └── README.md                 # Project overview and instructions
-\`\`\` </pre> 
+ </pre> 
 
 
 ---
 
 ## ▶️ How to Run
- <pre> \`\`\`
+ <pre> 
 1. C**lone the repository:**
    
    https://github.com/dvskullz/Card-Game.git
@@ -59,6 +59,25 @@ Instead of just reading theory, I wanted to apply these concepts in a fun and in
 4. **Run the game:**
 
    java BlackJack
-  \`\`\` </pre> 
+  </pre> 
+
+## 📸 Gameplay Preview
+<pre>
+=== Blackjack ===
+You drew: 9 of Hearts, King of Spades
+Dealer shows: 7 of Clubs
+Your current score: 19
+Do you want to [H]it or [S]tand? s
+
+Dealer's turn:
+Dealer has: 7 of Clubs, 5 of Hearts
+Dealer hits.
+Dealer has: 7 of Clubs, 5 of Hearts, King of Diamonds
+
+Final Scores:
+Your score: 19
+Dealer score: 22
+You win!
+ </pre>
 
 
