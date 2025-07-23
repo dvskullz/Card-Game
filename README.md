@@ -28,6 +28,17 @@ Instead of just reading theory, I wanted to apply these concepts in a fun and in
 
 ---
 
+## 🚀 What's Next?
+
+If in mood i might plan to extend this game engine to support:
+
+   GUI using JavaFX or Swing
+
+   Multiplayer logic
+
+   Betting system
+
+
 ## 📂 Project Structure
  <pre> Card-Game/
 ├── src/                      # Source files (Java code)
