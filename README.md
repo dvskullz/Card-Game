@@ -45,11 +45,12 @@ Instead of just reading theory, I wanted to apply these concepts in a fun and in
 ---
 
 ## ▶️ How to Run
-
+ <pre> \`\`\`
 1. C**lone the repository:**
    
    https://github.com/dvskullz/Card-Game.git
-   cd blackjack-game-engine
+
+    cd blackjack-game-engine
 
 3. **Compile all files:**
 
@@ -58,4 +59,6 @@ Instead of just reading theory, I wanted to apply these concepts in a fun and in
 4. **Run the game:**
 
    java BlackJack
+  \`\`\` </pre> 
+
 
