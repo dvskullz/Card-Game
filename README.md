@@ -57,20 +57,22 @@ Might extend this engine in the future — if the mood (and caffeine) hits right
 
 ## ▶️ How to Run
  <pre> 
-1. C**lone the repository:**
+  
+1. **Clone the repository:**
    
-   https://github.com/dvskullz/Card-Game.git
+    https://github.com/dvskullz/Card-Game.git
 
     cd blackjack-game-engine
 
 3. **Compile all files:**
 
-   javac *.java
+    javac *.java
 
 4. **Run the game:**
 
-   java BlackJack
-  </pre> 
+    java BlackJack
+  
+ </pre> 
 
 ## 📸 Gameplay Preview
 <pre>
