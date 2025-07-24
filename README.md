@@ -30,13 +30,13 @@ Instead of just reading theory, I wanted to apply these concepts in a fun and in
 
 ## 🚀 What's Next?
 
-If in mood i might plan to extend this game engine to support:
+Might extend this engine in the future — if the mood (and caffeine) hits right:
 
-   GUI using JavaFX or Swing
+1.   GUI using JavaFX or Swing
 
-   Multiplayer logic
+2.   Multiplayer logic
 
-   Betting system
+3.   Betting system
 
 
 ## 📂 Project Structure
